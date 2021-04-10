@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample Swipable Video</string>
+    <string name="title_sample">Title Sample</string>
+    <string name="description_sample">Description Sample</string>
+</resources>
