@@ -1,0 +1,3 @@
+To use Swipable Video
+1. Make adapter, object, dan xml for recycler video
+2. Next implement video with view pager
